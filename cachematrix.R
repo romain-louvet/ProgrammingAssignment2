@@ -3,9 +3,10 @@
 ## Romain Louvet, 2015
 ##
 ## To be perfectly honest, I didn't get it. I searched for code examples,
-## found one (which just change minor things from the original assignment example) 
-## changed a few things, added notes, tryed to make it work, and failed. 
-## I guess the example was misleading in some way...
+## found one (cf source below), changed a few things, added notes, tried 
+## to make it work, and failed. 
+## I guess the example provided with the assignment was misleading in some way...
+## Source: https://github.com/sefakilic/coursera-rprog-assignment2/blob/master/cachematrix.R
 ##
 ## Assignment:
 ## The assignment is to write a pair of functions that cache the inverse of a matrix,
